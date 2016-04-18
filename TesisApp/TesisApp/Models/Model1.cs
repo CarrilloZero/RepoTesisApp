@@ -5,6 +5,6 @@ namespace TesisApp.Models
     public class Model1
     {
         public string Text { get; set; }
-        public string alo { get; set; }
+        public string aerar { get; set; }
     }
 }
