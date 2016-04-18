@@ -6,5 +6,6 @@ namespace TesisApp.Models
     {
         public string Text { get; set; }
         public string asd { get; set; }
+        public string vamos { get; set; }
     }
 }
