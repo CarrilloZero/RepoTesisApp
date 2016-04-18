@@ -8,5 +8,6 @@ namespace TesisApp.Models
         public string asd { get; set; }
         public string vamos { get; set; }
         public string asdasd { get; set; }
+        public string wea { get; set; }
     }
 }
